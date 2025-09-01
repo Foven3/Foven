@@ -4,17 +4,28 @@ I'm a 4th-year Data Science student at **Mae Fah Luang University**, passionate 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-**Languages:** Python, R  
-**Data Tools:** Pandas, NumPy, Streamlit, Gradio, Joblib  
-**Machine Learning / AI:** Scikit-learn
-**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-**Databases:** MySQL, MongoDB  
-**Cloud & DevOps:** Docker  
-**Version Control:** GitHub 
-**Soft Skills:** Logical Thinking, Problem Solving, Teamwork, Communication  
+**Languages:**  
+Python, R
 
+**Data Tools:**  
+Pandas, NumPy, Streamlit, Gradio, Joblib  
+
+**ML/AI:**  
+Scikit-learn
+
+**Data Visualization:**  
+Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+
+**Databases:**  
+MySQL, MongoDB
+
+**Cloud & DevOps:**  
+Docker
+
+**Version Control & Collaboration:**  
+GitHub
 ---
 
 ## 📂 Projects & Work
