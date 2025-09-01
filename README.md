@@ -25,9 +25,9 @@ I'm a 4th-year Data Science student at **Mae Fah Luang University**, passionate 
 ---
 
 ## 📫 Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/Foven](https://github.com/Foven)  
+- Email: foven0047.com  
+- LinkedIn: https://www.linkedin.com/in/phyo-thiha47
+- GitHub: [github.com/Foven3](https://github.com/Foven3)  
 
 ---
 
